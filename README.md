@@ -1,3 +1,7 @@
+the website can be seen live here : https://rohan-gd.github.io/React-CRUD/ [the css is very bad ;;]
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
